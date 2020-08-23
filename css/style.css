@@ -1,0 +1,161 @@
+html, body{
+	min-height: : 100%;	
+}
+
+body{
+			background: url(https://img1.goodfon.com/original/1920x1080/9/82/android-material-fon-linii-411.jpg) no-repeat center center / cover;
+}
+
+div.titre{
+	
+	text-align: center;
+}
+	
+	
+
+
+#menu{
+
+	background-color: #373137;
+	padding: 0; margin: 0;
+	text-align: center; /* centrer le texte */
+
+
+}
+
+
+#menu li {
+	display: inline;
+	line-height:40px; 
+
+	
+}
+
+#menu li a{
+	text-decoration: none;	
+	color: white;
+	font-size: 18px;
+	font-family: Arial;
+	display:inline-block;
+	margin: 0 30px;
+
+	
+
+}
+
+
+#menu ul li a:hover{
+	color: blue; 
+}
+
+
+
+#contenuprincipal {
+	display: flex;
+	width: 90%;
+	margin: auto;
+	
+	
+
+}
+
+#footer {
+	display: flex;
+	margin: 0 auto;
+	background-color: #373137;
+	padding: 5px;
+
+}
+
+#footer p{
+	color: white;
+	font-weight: bold;
+	text-align: center;
+	display: flex;
+	margin: 0 auto;
+	
+}
+
+
+
+h3{
+	color: black;
+	font-family: Arial;
+	font-size: 25px
+}
+
+
+
+div.intro{
+	font-family: Arial;
+	font-size: 15px;
+	text-align:center;
+	color :white;
+	
+	
+}
+
+#intro {
+	
+	background-color: grey;
+	text-align:center;
+	padding: 6px;
+	margin-left:30%;
+	margin-right:30%;
+	
+}
+
+
+div.formation{
+	font-family: Arial;
+	font-size: 15px;
+	color: white;
+}
+
+#formation li{
+	
+	background-color: grey;
+	text-align:center;
+	padding: 6px;
+	margin-left:30%;
+	margin-right:30%;
+	
+}
+
+#formation li a{
+	text-decoration: none;	
+	color: white;
+	
+}
+
+#formation li a:hover{
+	color: blue; 
+}
+
+
+div.loisirs{
+	font-family: Arial;
+	font-size: 15px;
+	text-align:center;
+	color :white;
+	
+	
+}
+
+#loisirs {
+	
+	background-color: grey;
+	text-align:center;
+	padding: 6px;
+	margin-left:25%;
+	margin-right:25%;
+	
+}
+
+
+
+
+
+
+
+
